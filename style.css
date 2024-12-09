@@ -62,7 +62,7 @@ header{
     position: fixed;
     top: 0; left: 0; right: 0;
     background-color: #fff;
-    padding: 2rem 9%;
+    padding: 1.5rem 9%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -176,7 +176,7 @@ header .fa-bars{
     background-position: center;
 }
 .home .content{
-    max-width: 50rem;
+    max-width: 60rem;
 }
 .home .content h3{
     font-size: 6rem;
