@@ -1,2 +1,2 @@
 # ADA
-This is a demo website of a snack company.
+This is a demo frontend website of a snack company.
